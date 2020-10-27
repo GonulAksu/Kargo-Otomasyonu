@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.exe.config
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.exe
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.pdb
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csprojAssemblyReference.cache
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Form1.resources
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_Gönder.resources
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Properties.Resources.resources
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csproj.GenerateResource.cache
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.exe
+C:\Users\user\Desktop\VERİ\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.pdb
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.exe.config
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.exe
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.pdb
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.exe
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.pdb
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_Gönder.resources
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_Takip.resources
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Personel.resources
+C:\Users\Lenovo\Desktop\Veritabanı\HGH_Kargo\WindowsFormsAppYeni\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.HGHKargo.resources
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.exe.config
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.exe
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.pdb
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.exe
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\bin\Debug\WindowsFormsAppYeni.pdb
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.HGHKargo.resources
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_Gönder.resources
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_takip.resources
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Personel.resources
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.HGHKargo.resources
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_Gönder.resources
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Kargo_takip.resources
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Personel.resources
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.Properties.Resources.resources
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.exe
+C:\Users\PC\Desktop\C-KARGO SİSTEMİ\KODLAR\WindowsFormsAppYeni\obj\Debug\WindowsFormsAppYeni.pdb
